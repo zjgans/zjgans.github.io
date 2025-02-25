@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  name             : "Jun"
+  avatar           : "images/me.png"
+  bio              : "Sun Yat-sen University"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=F7sAF5IAAAAJ&view_op=list_works&gmla=AL3_zigJ96bmp-HgyVqgdeVuPfEZhhglzfcoIB4ELFxuc2j1XIGiK0AdZEnDmykGl0_fofP_WG5aWr8jqLWaCc4vyvEanHKqQRxf-RhreX0"
+  email            : "zhouj235@mail2.sysu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
