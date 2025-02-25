@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Jun Zhou"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "PhD candidate at Sun Yat-sen University, Multimodal learning, image/video generation, Few-shot learning "
+repository               : "zjgans/zjgans.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jun"
+  name             : "Jun Zhou"
   avatar           : "images/me.png"
   bio              : "Sun Yat-sen University"
   location         : "Shenzhen, China"
