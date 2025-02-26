@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hey, I am a 5th-year Ph.D. student in Computer Science at Sun Yat-sen University (SYSU). My primary research interests lie in the areas of image generation and diffusion models, with a particular focus on instruction-based image editing. My work aims to enhance the capabilities of deep learning models to generate high-fidelity and controllable image content
+I am currently a PhD student in Computer Science at Sun Yat-sen University (SYSU), advised by Prof. [Xiaodan Liang](https://scholar.google.com/citations?view_op=search_authors&mauthors=xiaodan+liang&hl=zh-CN&oi=ao)(粱小丹). My primary research interests lie in the areas of image generation and diffusion models, with a particular focus on instruction-based image editing. My work aims to enhance the capabilities of deep learning models to generate high-fidelity and controllable image content
 . By contributing to advancements in these fields, I hope to make a significant impact on applications such as photography, human-Computer interaction, advertising，and the gaming industries.
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
