@@ -90,5 +90,5 @@ Jiehui Huang, Zhenchao Tang, Xuedong He, **Jun Zhou**, Defeng Zhou, and Calvin Y
 - *2023.10*  President’s Scholarship of Sun Yat-sen University
 
 # 💻 Internships
-- *2024.0 - 2024.09*, with [Hunyuan](https://github.com/Tencent/HunyuanDiT)) Team, Shenzhen.
+- *2024.0 - 2025.02*, with [Tencent Hunyuan](https://github.com/Tencent/HunyuanDiT) Team, Shenzhen.
 - *2023.11 - 2024.05*, [Lenovo, Research Institute](https://research.lenovo.com/webapp/view/researchField.html), Shenzhen.
