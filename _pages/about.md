@@ -45,7 +45,7 @@ Jiehui Huang, Xiao Dong, Wenhui Song, Hanhui Li, **Jun Zhou**, Yuhao Cheng, Shut
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Knowledge-Based System</div><img src='images/publications/2024KBS_TMBL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Knowledge-Based System</div><img src='images/2024KBS_TMBL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TMBL: Transformer-based multimodal binding learning model for multimodal sentiment analysis](https://doi.org/10.1016/j.knosys.2023.111346) \\
@@ -56,7 +56,7 @@ Jiehui Huang, **Jun Zhou**, Zhenchao Tang, Jiaying Lin, and Calvin Yu-Chian Chen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/publications/2024Neurocomputing_DTP.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/2024Neurocomputing_DTP.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Progressive network based on detail scaling and texture extraction: A more general framework for image deraining](https://www.sciencedirect.com/science/article/abs/pii/S092523122301189X) \\
