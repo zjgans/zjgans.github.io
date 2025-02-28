@@ -67,6 +67,27 @@ Jiehui Huang, Zhenchao Tang, Xuedong He, **Jun Zhou**, Defeng Zhou, and Calvin Y
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Network</div><img src='images/LDCNet.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LDCNet: Lightweight dynamic convolution network for laparoscopic procedures image segmentation](https://doi.org/10.1016/j.neunet.2023.11.055) \\
+Yiyang Yin, Shuangling Luo, **Jun Zhou**, Liang Kang, Calvin Yu-Chian Chen*
+
+</div>
+</div>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Network</div><img src='images/Meta3D-DDI.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[3D graph neural network with few-shot learning for predicting drug–drug interactions in scaffold-based cold start scenario](https://doi.org/10.1016/j.neunet.2023.05.039) \\
+Qiujie Lv, **Jun Zhou**, Ziduo Yang, Haohuai He, Calvin Yu-Chian Chen*
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Intelligent Manufacturing</div><img src='images/glcl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
