@@ -28,8 +28,8 @@ My primary research interests lie in the areas of image generation and diffusion
 - *2024.04*: &nbsp;🎉🎉 Release (✨ 900+ Star), [ConsistentID](https://ssugarwh.github.io/consistentid.github.io/), one high-fidelity and fast customized portrait generation model.
 - *2023.12*: &nbsp;🎉🎉 One paper was accepted by Neural Network.
 - *2023.11*: &nbsp;🎉🎉 One paper was accepted by Neurocomputing.
-- *2024.10*: &nbsp;🎉🎉 Obtain the President’s Scholarship of Sun Yat-sen University.
-- *2024.10*: &nbsp;🎉🎉 One paper was accepted by the Journal of Intelligent Manufacturing.
+- *2023.10*: &nbsp;🎉🎉 Obtain the President’s Scholarship of Sun Yat-sen University.
+- *2022.11*: &nbsp;🎉🎉 One paper was accepted by the Journal of Intelligent Manufacturing.
 - *2022.10*: &nbsp;🎉🎉 One paper was accepted by Knowledge-Based Systems.
 
 # 📝 Publications 
