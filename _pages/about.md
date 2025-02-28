@@ -67,13 +67,13 @@ Jiehui Huang, Zhenchao Tang, Xuedong He, **Jun Zhou**, Defeng Zhou, and Calvin Y
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/glcl.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/glcl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Global and local representation collaborative learning for few-shot learning](https://link.springer.com/article/10.1007/s10845-022-02066-0) \\
 **Jun Zhou**, Qingling Cai*
 
-[**Project**](https://github.com/zjgans/GLCL)) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**Project**](https://github.com/zjgans/GLCL) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 </div>
 </div>
