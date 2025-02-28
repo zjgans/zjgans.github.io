@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a PhD student in Computer Science at [Sun Yat-sen University](https://www.sysu.edu.cn/), advised by Prof. [Xiaodan Liang](https://scholar.google.com/citations?hl=zh-CN&user=voxznZAAAAAJ) (粱小丹) at [the Human Cyber Physical Intelligence Integration Lab (HCP-I2 Lab)](https://www.sysu-hcp.net/). I received my BS from Sun Yat-sen University](https://www.sysu.edu.cn/), advised by Prof.[Qingling Cai](https://scholar.google.com/citations?hl=zh-CN&user=-KcEiOAAAAAJ&view_op=list_works&sortby=pubdate). I am also lucky to have opportunities to collaborate with [Calvin Yu-Chian Chen](https://www.ece.pku.edu.cn/info/1053/2659.htm) (Professor at Peking University).
 
-My primary research interests lie in the areas of image generation and diffusion models, with a particular focus on instruction-based image editing. My work aims to enhance the capabilities of deep learning models to generate high-fidelity and controllable image content. By contributing to advancements in these fields, I hope to make a significant impact on applications such as photography, human-computer interaction, advertising, and the gaming industries.
+My primary research interests lie in the areas of image generation and diffusion models, with a particular focus on instruction-based image editing. My work aims to enhance the capabilities of deep learning models to generate high-fidelity and controllable image content. By contributing to advancements in these fields, I want to make a significant impact on applications such as photography, human-computer interaction, advertising, and the gaming industry.
 
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉 Two paper was accepted by CVPR2025, stay tuned (Almost here)!
@@ -63,6 +63,28 @@ Jiehui Huang, **Jun Zhou**, Zhenchao Tang, Jiaying Lin, and Calvin Yu-Chian Chen
 Jiehui Huang, Zhenchao Tang, Xuedong He, **Jun Zhou**, Defeng Zhou, and Calvin Yu-Chian Chen*
 
 [**Project**](https://github.com/JackAILab/DTPNet/tree/main) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/glcl.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Global and local representation collaborative learning for few-shot learning](https://link.springer.com/article/10.1007/s10845-022-02066-0) \\
+**Jun Zhou**, Qingling Cai*
+
+[**Project**](https://github.com/zjgans/GLCL)) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Knowledge-Based System</div><img src='images/dpcn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dynamic concept-aware network for few-shot learning](https://www.sciencedirect.com/science/article/pii/S0950705122011388) \\
+**Jun Zhou**, Qiujie Lv, Calvin Yu-Chian Chen*
+
+[**Project**](https://github.com/zjgans/dcan) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 </div>
 </div>
