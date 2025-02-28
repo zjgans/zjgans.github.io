@@ -67,7 +67,7 @@ Jiehui Huang, Zhenchao Tang, Xuedong He, **Jun Zhou**, Defeng Zhou, and Calvin Y
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/glcl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Intelligent Manufacturing</div><img src='images/glcl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Global and local representation collaborative learning for few-shot learning](https://link.springer.com/article/10.1007/s10845-022-02066-0) \\
